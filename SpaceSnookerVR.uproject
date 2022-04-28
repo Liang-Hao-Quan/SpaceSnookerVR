@@ -48,6 +48,14 @@
 				"Win64",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
