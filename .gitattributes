@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+'C:/Users/limen/OneDrive/Documents/SpaceSnooker/SpaceSnookerVR/Content/MS_SciFiLand/3D_Asset/*.uasset' filter=lfs diff=lfs merge=lfs -text
+'C:/Users/limen/OneDrive/Documents/SpaceSnooker/SpaceSnookerVR/Content/MS_SciFiLand/3D_Asset/' filter=lfs diff=lfs merge=lfs -text
